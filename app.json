@@ -1,5 +1,5 @@
 {
-  "name": "Node.js Sample",
+  "name": "Node API example",
   "description": "A simple API built in Node and Express hosted on Heroku",
   "repository": "https://github.com/heroku/node-js-sample",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
