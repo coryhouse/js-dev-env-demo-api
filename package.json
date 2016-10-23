@@ -4,7 +4,7 @@
   "description": "A simple API built in Node and Express hosted on Heroku",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "4.13.3"
